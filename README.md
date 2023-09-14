@@ -14,7 +14,14 @@
 
 ### 1. Projects
 
-🛠️ I've poured my heart and soul into a variety of projects, ranging from web applications, mobile apps, data analysis, and more. Each project comes with its own set of challenges, and I'm always up for the challenge.
+🛠️ I've poured my heart and soul into a variety of projects, ranging from web applications, mobile apps, data analysis, and more. Each project comes with its own set of challenges, and I'm always up for the challenge. 
+
+These are my top projects:
+
+1) [Real Estate Price Predictor -- Python](https://github.com/AtharvaDharia0732/Real-Estate-Price-Predictor-Python#readme)
+2) [InflationIQ: Navigating CPI Shifts (Using Power BI)](https://github.com/AtharvaDharia0732/InflationIQ-Project-PowerBI#readme)
+3) Bar Char tAnimation -- C++
+
 
 ### 2. Contributions
 
