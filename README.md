@@ -2,16 +2,25 @@
 
 👋 Hello there! I'm Atharva Dharia, a passionate Computer Science undergraduate student with a major in Data Science in Health Sciences and a dual major in Economics. I have a strong foundation in various data-related tools and technologies, and I'm always excited to dive into new challenges and explore the world of data.
 
+Proficient in Power BI, SQL, Tableau, and Python, I'm ready to tackle data-driven problems and create insightful visualizations.
+
 ## About Me
 
-  📚 **Education**: Currently pursuing a degree in Computer Science with a focus on Data Science in Health Sciences and a dual major in Economics.
+  📚 **Education**: Currently pursuing a degree in Data Science with focus in Health Sciences and a dual degree in Economics.
+  
 
-  💻 **Skills**: Proficient in Power BI, SQL, Tableau, and Python, I'm ready to tackle data-driven problems and create insightful visualizations.
+  💻 **Skills**: 
+  
+ <li> Tools/Frameworks: Power BI, Tableau, Scikit-Learn, Matplotlib, Jupyter Notebooks, Excel</li>
+  
+  <li>Programming Languages: Python, SQL, R</li>
 
-🌟 Here's what you can expect to find in my portfolio:
+
+
+
 
 ## Portfolio Highlights
-
+🌟 Here's what you can expect to find in my portfolio:
 ### 1. Projects
 
 🛠️ I've poured my heart and soul into a variety of projects, ranging from web applications, mobile apps, data analysis, and more. Each project comes with its own set of challenges, and I'm always up for the challenge. 
