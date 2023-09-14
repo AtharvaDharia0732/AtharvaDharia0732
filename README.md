@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AtharvaDharia0732
+- 👀 I’m interested in roles related to Data Science or Data Analyst
+- 🌱 I’m well-versed in modern technologies like Tableau, Power BI, SQL and Python. 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
