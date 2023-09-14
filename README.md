@@ -22,7 +22,7 @@
 
 ## Let's Connect
 
-🌐 I'm always open to collaboration, discussions, and connecting with fellow developers. Feel free to reach out to me via [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/atharva-dharia07/)) for any inquiries, ideas, or just to say hello!
+  🌐 I'm always open to collaboration, discussions, and connecting with fellow developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/atharva-dharia07/) for any inquiries, ideas, or just to say hello!
 
 Thank you for visiting my GitHub portfolio. I hope you find my work inspiring and valuable. Let's embark on this coding journey together!
 
