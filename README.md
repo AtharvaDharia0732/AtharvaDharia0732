@@ -12,13 +12,13 @@ Proficient in Power BI, SQL, R, Tableau, and Python, I'm ready to tackle data-dr
   💻 **Skills**: 
   
 <li> 
-•	Programming Languages - SQL, R, Python (pandas, NumPy, SciPy, matplotlib), C, C++, MATLAB, Scala, SAS</li>
+	Programming Languages - SQL, R, Python (pandas, NumPy, SciPy, matplotlib), C, C++, MATLAB, Scala, SAS</li>
 <li> 
-•	Software Tools - Tableau, Power BI, Qlik, MS Excel, MS PowerPoint, MS Access, MS Word, STATA, SPSS</li>
+	Software Tools - Tableau, Power BI, Qlik, MS Excel, MS PowerPoint, MS Access, MS Word, STATA, SPSS</li>
 <li>
-•	Cloud Platforms - Amazon Web Services (AWS), Azure, Google Cloud</li>
+	Cloud Platforms - Amazon Web Services (AWS), Azure, Google Cloud</li>
 <li>
-•	Finance and Economics Proficiencies - Budgeting, Forecasting, Financial Modeling, Cost Accounting, Risk Management
+	Finance and Economics Proficiencies - Budgeting, Forecasting, Financial Modeling, Cost Accounting, Risk Management
 </li>
   
   
