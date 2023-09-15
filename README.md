@@ -1,23 +1,23 @@
 # Welcome to My GitHub Portfolio
 
-👋 Hello there! I'm Atharva Dharia, a passionate Computer Science undergraduate student with a major in Data Science in Health Sciences and a dual major in Economics. I have a strong foundation in various data-related tools and technologies, and I'm always excited to dive into new challenges and explore the world of data.
+👋 Hello there! I'm Atharva Dharia, a passionate Computer Science undergraduate student pursuing dual degree in Data Science with Health Sciences Concentration and Economics. I have a strong foundation in various data-related tools and technologies, and I'm always excited to dive into new challenges and explore the world of data.
 
-Proficient in Power BI, SQL, Tableau, and Python, I'm ready to tackle data-driven problems and create insightful visualizations.
+Proficient in Power BI, SQL, R, Tableau, and Python, I'm ready to tackle data-driven problems and create insightful visualizations.
 
 ## About Me
 
-  📚 **Education**: Currently pursuing a degree in Data Science with focus in Health Sciences and a dual degree in Economics.
+  📚 **Education**: Currently pursuing a dual degree in Data Science with Health Sciences concentration and Economics.
   
 
   💻 **Skills**: 
   
- <li> Tools/Frameworks: Power BI, Tableau, Scikit-Learn, Matplotlib, Jupyter Notebooks, Excel</li>
+ <li> •	Programming Languages - SQL, R, Python (pandas, NumPy, SciPy, matplotlib), C, C++, MATLAB, Scala, SAS
+•	Software Tools - Tableau, Power BI, Qlik, MS Excel, MS PowerPoint, MS Access, MS Word, STATA, SPSS
+•	Cloud Platforms - Amazon Web Services (AWS), Azure, Google Cloud
+•	Finance and Economics Proficiencies - Budgeting, Forecasting, Financial Modeling, Cost Accounting, Risk Management
+</li>
   
-  <li>Programming Languages: Python, SQL, R</li>
-
-
-
-
+  
 
 ## Portfolio Highlights
 🌟 Here's what you can expect to find in my portfolio:
