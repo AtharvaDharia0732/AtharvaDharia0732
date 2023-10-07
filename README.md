@@ -1,12 +1,18 @@
 # Welcome to My GitHub Portfolio
 
-👋 Hello there! I'm Atharva Dharia, a passionate Computer Science undergraduate student pursuing dual degree in Data Science with Health Sciences Concentration and Economics. I have a strong foundation in various data-related tools and technologies, and I'm always excited to dive into new challenges and explore the world of data.
+👋🏻 Hi, My name is Atharva Dharia
 
-Proficient in Power BI, SQL, R, Tableau, and Python, I'm ready to tackle data-driven problems and create insightful visualizations.
+🎓 Pursuing a dual degree at University of Illinois at Chicago (Aug 2020 - May 2024)
 
-## About Me
+BS in Data Science, Health Data Science Concentration 
+and
+BA in Economics, Business and Financial Economics
 
-  📚 **Education**: Currently pursuing a dual degree in Data Science with Health Sciences concentration and Economics.
+📚 As a Data Science and Economics dual-degree holder, I specialize in health data analytics and financial economic analysis. With diverse internships under my belt, I've conducted in-depth data-driven analyses for companies, leveraging tools such as AWS RDS, Power BI, and SQL. My work at BagAChat, BitConnect, and Konkan Malleable Industries equipped me with hands-on experience in data extraction, visualization, and predictive analytics, driving cost-saving initiatives and enhancing operational efficiencies. My role as a Data Science Success Mentor and Teaching Assistant has not only showcased my proficiency in Python, SQL, R, and other analytical tools but also underlined my commitment to fostering analytical acumen among students. I've successfully led projects dissecting consumer spending trends and real estate market dynamics, employing a blend of advanced statistical techniques and data visualization tools. Passionate about combining data insights with economic principles, I'm eager to contribute my analytical expertise in a dynamic data analyst role.
+
+💻 As for my future, I hope to one day work as a Data Scientist and solving problems with a diverse team.
+
+⛰️ In my free time, you can find me playing soccer, reading a book, hiking, or writing blogs https://www.dsatharva.com 
   
 
   💻 **Skills**: 
